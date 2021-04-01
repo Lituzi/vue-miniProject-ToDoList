@@ -22,4 +22,4 @@ npm run dev
 ```
 
 ## 最终效果
-![image]()
+![image](./整体效果.PNG)
