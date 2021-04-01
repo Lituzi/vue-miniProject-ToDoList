@@ -1,21 +1,25 @@
-# todolist
+# vue-miniProject-ToDoList
 
-> A Vue.js project
+> 基于vue2.0实现的todolist功能
+> 详细说明地址：
+## 实现功能
+- 在文本框输入后按enter添加待办事项
+- 添加后显示在待办事项中
+- 完成后勾选check框，从待办事项中移除，显示在已完成中
+- 待办事项和已完成的计数功能
+- 删除单条待办事项
+- 按键clear清除所有事项
+- 保存在本地localStorage中
 
-## Build Setup
-
-``` bash
-# install dependencies
+## 实现说明
+使用vue-cli创建项目后，将src文件夹替换。
+```
+npm install --global vue-cli
+vue init webpack my-project
+cd my-project
 npm install
-
-# serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 最终效果
+![image]()
