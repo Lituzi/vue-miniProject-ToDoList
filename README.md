@@ -1,7 +1,7 @@
 # vue-miniProject-ToDoList
 
-> 基于vue2.0实现的todolist功能
-> 详细说明地址：
+> 基于vue2.0实现的todolist功能  
+> 详细说明地址：https://blog.csdn.net/qq_33094147/article/details/115386252
 ## 实现功能
 - 在文本框输入后按enter添加待办事项
 - 添加后显示在待办事项中
